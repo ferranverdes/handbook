@@ -55,7 +55,5 @@ site:cvedetails.com apache 2.2 vulnerabilities
 
 * [Testing for Web Application Fingerprint][2]
 
-
 [1]: https://searchdns.netcraft.com/
 [2]: https://wiki.owasp.org/index.php/Testing_for_Web_Application_Fingerprint_(OWASP-IG-004)
-
