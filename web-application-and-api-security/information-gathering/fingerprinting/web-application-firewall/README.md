@@ -28,11 +28,9 @@
 
 * [WAFW00F][2]
 * [Nmap script `http-waf-fingerprint`][3]:
-
   ```bash
   nmap --script=http-waf-fingerprint www.example.com -p 80
   ```
-
 * [imperva-detect][1]: this utility is focused on the detection of an Imperva WAF.
 
 [1]: https://code.google.com/archive/p/imperva-detect/
