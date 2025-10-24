@@ -7,13 +7,11 @@
 * [HostileSubBruteforcer][6]
 * [amass][1]
 * dnsenum:
-
   ```bash
   dnsenum -p 20 -s 100 --threads 5 example.com
   ```
 * [SubBrute][10]
 * [Gobuster][14]:
-
   ```bash
   gobuster dns -d example.com -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt
   ```
@@ -27,13 +25,10 @@
 Allowed zone transfer processes are usually the result of misconfiguration of the remote DNS server. They should be enabled (if required) only for trusted IP addresses. When zone transfers are available, we can enumerate all the DNS records for that zone.
 
 * dig:
-
   ```bash
   dig axfr example.com @ns1.example.com
   ```
-
 * host:
-
   ```bash
   host -t axfr example.com ns1.example.com
   ```
@@ -41,11 +36,9 @@ Allowed zone transfer processes are usually the result of misconfiguration of th
 ## Passive enumeration
 
 * [Google search][11]:
-
   ```
   site: example.com -site:www.example.com
   ```
-
 * [dnsdumpster][2]
 * [Netcraft][9]: use the *"subdomain matches"* option.
 * [Sublist3r][3]
