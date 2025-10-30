@@ -1,0 +1,5 @@
+# 🐝 Git
+
+* [gittyleaks][1]: find sensitive information for a git repo.
+
+[1]: https://github.com/kootenpv/gittyleaks
