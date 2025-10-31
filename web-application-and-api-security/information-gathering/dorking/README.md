@@ -52,7 +52,9 @@
 
 * [Google Hacking Database][1]
 * [Google dork cheatsheet][2]
+* [Google Search Operators][4]
 
 [1]: https://www.exploit-db.com/google-hacking-database
 [2]: https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
 [3]: https://github.com/m3n0sd0n4ld/GooFuzz
+[4]: https://www.googleguide.com/advanced_operators_reference.html
