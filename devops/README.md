@@ -1,4 +1,4 @@
-# 🐜 DevSecOps
+# 🐜 DevOps
 
 ## Software Development Life Cycle (SDLC)
 
