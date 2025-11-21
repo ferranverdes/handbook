@@ -2,7 +2,7 @@
 
 * [How to track NTLM usage before enforcing/disabling it?][1] — *Sep 2025*
 
-## AD vs Azure AD
+## AD vs Azure AD — *Apr 2020*
 
 * Azure AD is not the "legacy" Active Directory in the Cloud.
 
