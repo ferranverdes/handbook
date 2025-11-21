@@ -39,7 +39,7 @@
 
 ![Security by Design Principles overview][2]
 
-|Source: [*"Security design with principles" from Medium by Rauli Kaksonen.*][6]|
+|Source: [*"Security design with principles" from Medium by Rauli Kaksonen.*][5]|
 |:--:|
 
 ## Secure Code Training
@@ -55,3 +55,4 @@
 [2]: ./images/security-by-design-principles-overview.png
 [3]: https://learn.snyk.io/catalog/
 [4]: https://www.hacksplaining.com/
+[5]: https://medium.com/ouspg/security-design-with-principles-a8c045765b93
