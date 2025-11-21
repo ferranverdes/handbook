@@ -1,4 +1,4 @@
-# Content Delivery Network (CDN)
+# 🦅 Content Delivery Network (CDN)
 
 ## Tasks
 
@@ -62,3 +62,4 @@
 [8]: https://www.imperva.com/learn/performance/cdn-caching/
 [9]: https://www.keycdn.com/support/if-modified-since-http-header
 [10]: https://github.com/6mile/DevSecOps-Playbook
+
