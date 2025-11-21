@@ -35,8 +35,23 @@
 | **Attack Modelling** | Simulate realistic attack scenarios | Attack trees and sequence diagrams | Model SQLi chain via API, credential-stuffing flow, privilege escalation path |
 | **Risk & Impact Analysis** | Evaluate risk levels and prioritise mitigations | Risk matrix and mitigation plan | Prioritise threats by likelihood × impact, propose compensating controls, mitigation roadmap |
 
+## Security by Design
+
+![Security by Design Principles overview][2]
+
+|Source: [*"Security design with principles" from Medium by Rauli Kaksonen.*][6]|
+|:--:|
+
+## Secure Code Training
+
+* [Snyk Learn][3]
+* [Hacksplaining][4]
+
 ### Further reading
 
 * [Comparison of STRIDE, DREAD & PASTA][1]
 
 [1]: https://www.softwaresecured.com/post/comparison-of-stride-dread-pasta
+[2]: ./images/security-by-design-principles-overview.png
+[3]: https://learn.snyk.io/catalog/
+[4]: https://www.hacksplaining.com/
